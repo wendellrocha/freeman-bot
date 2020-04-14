@@ -1,0 +1,2 @@
+# freeman-bot
+Discord bot
